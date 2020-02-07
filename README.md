@@ -17,9 +17,10 @@
    高德地图插件测试项目，使用了`地图视图`和`POI搜索`两个功能
    
    屏幕截图：
-   ![mapview](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/map_test1.jpg)
+      ```我定位在了家乡江苏连云港```
+     ![mapview](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/map_test1.jpg)
    
-   ![map_search](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/map_test2.jpg)
+     ![map_search](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/map_test2.jpg)
    
 
 * [**contacts**](https://github.com/WxxShirley/flutter_examples/tree/master/contacts)
@@ -27,7 +28,7 @@
    AZlistview插件测试项目，以A-Z的昵称顺序显示各个联系人
    
    屏幕截图：
-   ![azlistview_example](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/contacts.png)
+     ![azlistview_example](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/contacts.png)
    
    
    
