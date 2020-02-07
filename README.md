@@ -15,6 +15,10 @@
 * [**map_test**](https://github.com/WxxShirley/flutter_examples/tree/master/map_test)
    
    高德地图插件测试项目，使用了`地图视图`和`POI搜索`两个功能
+
+* [**contacys**](https://github.com/WxxShirley/flutter_examples/tree/master/contacts)
+
+   AZlistview插件测试项目，以A-Z的昵称顺序显示各个联系人
    
    
    
