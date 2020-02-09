@@ -35,6 +35,7 @@
    卡片形式展示朋友的实时动态
 
    屏幕截图：
+      ```因为最近看如懿传有点上头，所以取了剧中的人物和故事```
       ![card](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/card.jpg)
       
    
