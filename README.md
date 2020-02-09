@@ -30,7 +30,12 @@
    屏幕截图：
      ![azlistview_example](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/contacts.png)
    
+* [**card**](https://github.com/WxxShirley/flutter_examples/tree/master/card)
    
+   卡片形式展示朋友的实时动态
+
+   屏幕截图：
+      
    
 ## Useful plugins
 
