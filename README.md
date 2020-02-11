@@ -53,7 +53,7 @@
 
    a-z显示的Listview，可应用于显示联系人/中国城市
 
-* [pull_to_refresh)(https://pub.dev/packages/pull_to_refresh)
+* [pull_to_refresh](https://pub.dev/packages/pull_to_refresh)
 
    下拉刷新和上拉加载插件
    
