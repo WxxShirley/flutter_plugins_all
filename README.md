@@ -47,7 +47,7 @@
       ![message1](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/message1.jpg)
     
     
-      ![message2](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/message2.jpg)
+     ![message2](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/message2.jpg)
        
 
    
