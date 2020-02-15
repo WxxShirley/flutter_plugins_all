@@ -37,7 +37,19 @@
    屏幕截图：
       ```因为最近看如懿传有点上头，所以取了剧中的人物和故事```
       ![card](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/card.jpg)
-      
+
+
+* [**message_reminder**](https://github.com/WxxShirley/flutter_examples/tree/master/message_reminder)
+
+   列表显示系统消息。支持上拉加载、下拉刷新、右滑删除。
+   
+   屏幕截图：
+      ![message1](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/message1.jpg)
+    
+    
+     ![message2](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/message2.jpg)
+       
+
    
 ## Useful plugins
 
