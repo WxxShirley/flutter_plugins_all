@@ -88,11 +88,14 @@
    [这里](https://github.com/peng8350/flutter_pulltorefresh/blob/master/README_CN.md)是详细的中文版README
    
    
-* image_picker
+* [image_picker](https://pub.dev/packages/image_picker)
+
+  从手机相册中选择照片/拍摄图片
 
 
-* image_crop
-
+* [image_crop](https://pub.dev/packages/image_crop)
+  
+  图片裁剪
 
 ## Good Projects
 优秀的flutter项目。他山之石，可以攻玉。
