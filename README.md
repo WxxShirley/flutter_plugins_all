@@ -1,5 +1,18 @@
 # flutter_examples
-一些flutter-demo项目和好用的插件
+项目说明：一些flutter-demo项目和好用的插件
+
+## 插件汇总结果
+
+* **页面更新相关**: 下拉刷新(pull_to_refresh)、右滑删除
+
+* **网络请求**:     http， dio
+
+* **地图插件**:     高德地图插件全家桶
+
+* **图片处理**:     从相机选择图片（image_picker)，图片裁剪（image_crop)
+
+* **中国特色**:     省市区三级调度(image_picker), a-z字母顺序显示联系人(azlistview)
+
 
 ## Examples
 
@@ -66,6 +79,11 @@
       ![eg3](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/img_test3.jpg)
       ![eg4](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/img_test4.jpg)
 
+
+* [**like_button**](https://github.com/WxxShirley/flutter_examples/tree/master/like_button_example)
+   
+   赋予IconButton以动画效果，支持触发事件`onTap:FunctionName`.
+
    
 ## Useful plugins
 
@@ -96,6 +114,10 @@
 * [image_crop](https://pub.dev/packages/image_crop)
   
   图片裁剪
+
+* [like_button](https://github.com/fluttercandies/like_button/blob/master/README-ZH.md)
+   
+   支持icon-button的动画效果，好看且好用～
 
 ## Good Projects
 优秀的flutter项目。他山之石，可以攻玉。
