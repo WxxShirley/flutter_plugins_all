@@ -1,16 +1,18 @@
 # flutter_chat
 
-A new Flutter project.
+聊天界面设计
 
-## Getting Started
+## 两大组件
 
-This project is a starting point for a Flutter application.
+* 底部信息框（TextFormField), 发送按钮（IconButton icon：send）
 
-A few resources to get you started if this is your first Flutter project:
+* 已发送信息以ListView方式展示 包含：用户名（或头像-CircleAvatar），用户昵称，发送的内容
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 控制事件
+
+* （待完成...) initState阶段加载双方的聊天记录
+
+*  点击send-button后发送信息
+
+* （待完成...） 消息的撤回机制
