@@ -50,6 +50,21 @@
      ![message2](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/message2.jpg)
 
        
+* [**img_test**](https://github.com/WxxShirley/flutter_examples/tree/master/image_test)
+
+  支持从相机选择图片并裁剪，之后上传到[djaogo后台](https://github.com/WxxShirley/flutter_examples/tree/master/image_backend)
+  支持请求django后台显示图片(使用`Image.network(url)`
+  
+  用到的插件有：
+  * `image_picker`:支持拍摄图片、从相册中选择图片
+  * `image_crop`:支持图片裁剪
+  * `http`:将图片内容传送给django后台
+  
+  屏幕截图示例:
+      ![eg1](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/img_test1.jpg)
+      ![eg2](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/img_test2.jpg)
+      ![eg3](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/img_test3.jpg)
+      ![eg4](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/img_test4.jpg)
 
    
 ## Useful plugins
@@ -71,6 +86,16 @@
    下拉刷新和上拉加载插件
    
    [这里](https://github.com/peng8350/flutter_pulltorefresh/blob/master/README_CN.md)是详细的中文版README
+   
+   
+* [image_picker](https://pub.dev/packages/image_picker)
+
+  从手机相册中选择照片/拍摄图片
+
+
+* [image_crop](https://pub.dev/packages/image_crop)
+  
+  图片裁剪
 
 ## Good Projects
 优秀的flutter项目。他山之石，可以攻玉。
