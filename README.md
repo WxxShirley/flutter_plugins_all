@@ -19,6 +19,17 @@
 ```
 这些demo都是我在做app时部分插件或者功能的测试项目，可以作为简单的练手/插件使用的example例子
 ```
+* [**flutter_chat**](https://github.com/WxxShirley/flutter_plugins_all/tree/master/flutter_chat)
+
+   聊天界面的设计。
+   
+   真正应用时：
+   
+    *   两大组件（文本框+发送，双方已发送内容）
+    *   三大事件控制（initState获取双方聊天记录，发送新消息处理机制，消息撤回）
+    
+    这里还需完善.......
+
 
 * [**hello world**](https://github.com/WxxShirley/flutter_examples/tree/master/hello_world)
    
