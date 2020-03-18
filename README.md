@@ -35,40 +35,22 @@
    
    高德地图插件测试项目，使用了`地图视图`和`POI搜索`两个功能
    
-   屏幕截图：
-      ```我定位在了家乡江苏连云港```
-     ![mapview](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/map_test1.jpg)
-   
-     ![map_search](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/map_test2.jpg)
    
 
 * 🌟🌟[**contacts**](https://github.com/WxxShirley/flutter_examples/tree/master/contacts)
 
    AZlistview插件测试项目，以A-Z的昵称顺序显示各个联系人
    
-   屏幕截图：
-     ![azlistview_example](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/contacts.png)
-   
    
 * 🌟🌟[**card**](https://github.com/WxxShirley/flutter_examples/tree/master/card)
    
    卡片形式展示朋友的实时动态
-
-   屏幕截图：
-      ```因为最近看如懿传有点上头，所以取了剧中的人物和故事```
-      ![card](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/card.jpg)
 
 
 * 🌟🌟[**message_reminder**](https://github.com/WxxShirley/flutter_examples/tree/master/message_reminder)
 
    列表显示系统消息。支持上拉加载、下拉刷新、右滑删除。
    
-   屏幕截图：
-      ![message1](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/message1.jpg)
-    
-    
-     ![message2](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/message2.jpg)
-
        
 * 🌟🌟🌟[**img_test**](https://github.com/WxxShirley/flutter_examples/tree/master/image_test)
 
@@ -79,13 +61,7 @@
   * `image_picker`:支持拍摄图片、从相册中选择图片
   * `image_crop`:支持图片裁剪
   * `http`:将图片内容传送给django后台
-  
-  屏幕截图示例:
-      ![eg1](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/img_test1.jpg)
-      ![eg2](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/img_test2.jpg)
-      ![eg3](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/img_test3.jpg)
-      ![eg4](https://github.com/WxxShirley/flutter_examples/blob/master/screenshots/img_test4.jpg)
-
+ 
 
 * [**like_button**](https://github.com/WxxShirley/flutter_examples/tree/master/like_button_example)
    
