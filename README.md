@@ -11,8 +11,9 @@
 
 * **图片处理**:     从相机选择图片（image_picker)，图片裁剪（image_crop)
 
-* **中国特色**:     省市区三级调度(image_picker), a-z字母顺序显示联系人(azlistview)
+* **中国特色**:     省市区三级调度(image_picker)
 
+* **联系人显示**：   a-z字母顺序显示联系人(azlistview)，grouped_list（可自定义分组显示方式）
 
 ## Examples
 
