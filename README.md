@@ -62,7 +62,14 @@
   * `image_picker`:支持拍摄图片、从相册中选择图片
   * `image_crop`:支持图片裁剪
   * `http`:将图片内容传送给django后台
- 
+
+* 🌟[**group_demp**](https://github.com/WxxShirley/flutter_plugins_all/tree/master/group_demo)
+    
+   对联系人姓名首字母排序展示（不足：没有悬停bar）
+   👍**优点**：
+     * 拓展性强，支持嵌套下拉刷新插件
+     * 排序关系可自定义
+     * 元素显示方式、分隔组件都可自己定义
 
 * [**like_button**](https://github.com/WxxShirley/flutter_examples/tree/master/like_button_example)
    
