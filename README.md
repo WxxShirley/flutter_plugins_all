@@ -15,6 +15,9 @@
 
 * **联系人显示**：   a-z字母顺序显示联系人(azlistview)，grouped_list（可自定义分组显示方式）
 
+* **socket**:      websocket
+
+
 ## Examples
 
 ```
@@ -74,6 +77,14 @@
 * [**like_button**](https://github.com/WxxShirley/flutter_examples/tree/master/like_button_example)
    
    赋予IconButton以动画效果，支持触发事件`onTap:FunctionName`.
+
+
+* [**websocket_demp**](https://github.com/WxxShirley/flutter_plugins_all/tree/master/websocket_demo)
+   
+   [服务端](https://github.com/WxxShirley/flutter_plugins_all/tree/master/websocket_test)
+   
+   支持双端通信的demo工程
+
 
    
 ## Useful plugins
