@@ -2,12 +2,13 @@
 项目说明：一些flutter-demo项目和好用的插件
 
 ## 插件汇总结果
+* **本地缓存**: shared_preference
 
 * **页面更新相关**: 下拉刷新(pull_to_refresh)、右滑删除
 
 * **网络请求**:     http， dio
 
-* **地图插件**:     高德地图插件全家桶
+* **地图插件**:     高德地图插件全家桶（amap_location_fluttify可定位， amap_search_fluttify可以查询poi、导航信息， amap_map_fluttify显示地图视图）
 
 * **图片处理**:     从相机选择图片（image_picker)，图片裁剪（image_crop)
 
