@@ -2,18 +2,22 @@
 项目说明：一些flutter-demo项目和好用的插件
 
 ## 插件汇总结果
+* **本地缓存**: shared_preference
 
 * **页面更新相关**: 下拉刷新(pull_to_refresh)、右滑删除
 
 * **网络请求**:     http， dio
 
-* **地图插件**:     高德地图插件全家桶
+* **地图插件**:     高德地图插件全家桶（amap_location_fluttify可定位， amap_search_fluttify可以查询poi、导航信息， amap_map_fluttify显示地图视图）
 
 * **图片处理**:     从相机选择图片（image_picker)，图片裁剪（image_crop)
 
 * **中国特色**:     省市区三级调度(image_picker)
 
 * **联系人显示**：   a-z字母顺序显示联系人(azlistview)，grouped_list（可自定义分组显示方式）
+
+* **socket**:      websocket
+
 
 ## Examples
 
@@ -74,6 +78,14 @@
 * [**like_button**](https://github.com/WxxShirley/flutter_examples/tree/master/like_button_example)
    
    赋予IconButton以动画效果，支持触发事件`onTap:FunctionName`.
+
+
+* [**websocket_demp**](https://github.com/WxxShirley/flutter_plugins_all/tree/master/websocket_demo)
+   
+   [服务端](https://github.com/WxxShirley/flutter_plugins_all/tree/master/websocket_test)
+   
+   支持双端通信的demo工程
+
 
    
 ## Useful plugins
