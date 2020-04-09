@@ -4,9 +4,11 @@
 ## 插件汇总结果
 * **本地缓存**: shared_preference
 
+* **本机数据**：device_info（平台、设备具体信息), connectivity(网络信息，包括wifi/流量，ip地址等）
+
 * **页面更新相关**: 下拉刷新(pull_to_refresh)、右滑删除
 
-* **网络请求**:     http， dio
+* **网络请求**:     http， dio(get方法)
 
 * **地图插件**:     高德地图插件全家桶（amap_location_fluttify可定位， amap_search_fluttify可以查询poi、导航信息， amap_map_fluttify显示地图视图）
 
@@ -24,7 +26,7 @@
 ```
 这些demo都是我在做app时部分插件或者功能的测试项目，可以作为简单的练手/插件使用的example例子
 ```
-* 🌟🌟🌟[**flutter_chat**](https://github.com/WxxShirley/flutter_plugins_all/tree/master/flutter_chat)
+* [**flutter_chat**](https://github.com/WxxShirley/flutter_plugins_all/tree/master/flutter_chat)
 
    聊天界面的设计。
    
@@ -36,7 +38,7 @@
     这里还需完善.......
   
 
-* 🌟🌟🌟[**map_test**](https://github.com/WxxShirley/flutter_examples/tree/master/map_test)
+* [**map_test**](https://github.com/WxxShirley/flutter_examples/tree/master/map_test)
    
    高德地图插件测试项目，使用了`地图视图`和`POI搜索`两个功能
    
@@ -47,17 +49,17 @@
    AZlistview插件测试项目，以A-Z的昵称顺序显示各个联系人
    
    
-* 🌟🌟[**card**](https://github.com/WxxShirley/flutter_examples/tree/master/card)
+* [**card**](https://github.com/WxxShirley/flutter_examples/tree/master/card)
    
    卡片形式展示朋友的实时动态
 
 
-* 🌟🌟[**message_reminder**](https://github.com/WxxShirley/flutter_examples/tree/master/message_reminder)
+* [**message_reminder**](https://github.com/WxxShirley/flutter_examples/tree/master/message_reminder)
 
    列表显示系统消息。支持上拉加载、下拉刷新、右滑删除。
    
        
-* 🌟🌟🌟[**img_test**](https://github.com/WxxShirley/flutter_examples/tree/master/image_test)
+* [**img_test**](https://github.com/WxxShirley/flutter_examples/tree/master/image_test)
 
   支持从相机选择图片并裁剪，之后上传到[djaogo后台](https://github.com/WxxShirley/flutter_examples/tree/master/image_backend)
   支持请求django后台显示图片(使用`Image.network(url)`
@@ -67,7 +69,7 @@
   * `image_crop`:支持图片裁剪
   * `http`:将图片内容传送给django后台
 
-* 🌟[**group_demp**](https://github.com/WxxShirley/flutter_plugins_all/tree/master/group_demo)
+* [**group_demo**](https://github.com/WxxShirley/flutter_plugins_all/tree/master/group_demo)
     
    对联系人姓名首字母排序展示（不足：没有悬停bar）
    👍**优点**：
