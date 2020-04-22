@@ -20,6 +20,17 @@
 
 * **socket**:      websocket
 
+* **定时任务**:     Timer(其实是dart语言的一个类），使用方法
+    ```dart
+       Timer _timer;
+       const period = const Duration(seconds: 120);
+    
+       _timer = Timer.periodic(period, (timer)async{
+             // 自定义的定时任务，每间隔120执行
+       }
+    ```
+* **监听/数据全局化**： Provider
+
 
 ## Examples
 
